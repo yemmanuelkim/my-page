@@ -2,3 +2,8 @@ theme: minima
 title: My GitHub Blog
 author: yemmanuelkim
 description: A blog created with GitHub Pages and Jekyll.
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
