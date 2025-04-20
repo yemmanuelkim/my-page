@@ -4,7 +4,7 @@ author: yemmanuelkim
 description: A blog created with GitHub Pages and Jekyll.
 
 header_pages:
-  - daily.html
+  - daily.md
   - devlogs.md
   - projects.md
 
