@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### 주요 프로젝트
-- Project A
-- Project B
+### Featured Projects
+
+- **Project A** — Description of Project A
+- **Project B** — Description of Project B
