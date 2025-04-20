@@ -3,6 +3,8 @@ title: Kant's Greenhouse
 author: yemmanuelkim
 description: A blog created with GitHub Pages and Jekyll.
 
+baseurl: "/my-page" # ← 요거 중요!!
+
 header_pages:
   - daily.md
   - devlogs.md
