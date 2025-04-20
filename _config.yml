@@ -4,9 +4,9 @@ author: yemmanuelkim
 description: A blog created with GitHub Pages and Jekyll.
 
 header_pages:
-  - index.md       # Will appear as "Daily"
-  - devlogs.md     # Will appear as "Dev logs"
-  - projects.md    # Will appear as "Projects"
+  - daily.html
+  - devlogs.md
+  - projects.md
 
 sass:
   style: compressed
