@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Daily
+permalink: /daily/
 ---
 
 <h1>Daily</h1>
