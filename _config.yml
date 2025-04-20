@@ -7,3 +7,10 @@ header_pages:
   - index.md
   - about.md
   - projects.md
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
